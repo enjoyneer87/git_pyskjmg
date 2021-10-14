@@ -9,6 +9,7 @@
 #Copyright: (c) JSOL Corporation. All Rights Reserved.
 #---------------------------------------------------------------------
 # -*- coding: utf-8 -*-
+
 import csv
 import math
 import designer
